@@ -91,11 +91,11 @@ public class Main {
     }
 
     private static void editMenu(){
-//        System.out.println("Выберите, что редактировать");
-//        System.out.println("1. Имя");
-//        System.out.println("2. Категория");
-//        System.out.println("3. Цена");
-//        System.out.println("4. Скидка");
-//        System.out.println("5. Вернуться");
+        System.out.println("Выберите, что редактировать");
+        System.out.println("1. Имя");
+        System.out.println("2. Категория");
+        System.out.println("3. Цена");
+        System.out.println("4. Скидка");
+        System.out.println("5. Вернуться");
     }
 }
